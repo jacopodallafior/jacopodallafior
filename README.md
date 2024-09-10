@@ -45,7 +45,7 @@ I'm Jacopo Dallafior, a passionate engineer with a focus on **Autonomous Systems
 
 
 ## 📈 GitHub Stats
-![Profile views](https://gpvc.arturio.dev/Jacopo-Dallafior)
+![Profile views](https://gpvc.arturio.dev/jacopodallafior)
 
 
 <!---
