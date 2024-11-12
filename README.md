@@ -39,13 +39,13 @@ I'm Jacopo Dallafior, a passionate engineer with a focus on **Autonomous Systems
 ## 📚 Education
 - **KTH Royal Institute of Technology** (2024-2025)  
   Master's in ICT Innovation: Autonomous Systems, Electronics, and Robotics
-- **University of Trento** (2020-2024)  
+- **University of Trento** (2023-2024)  
+  Master Mechatronics Engineering
+- **University of Trento** (2020-2023)  
   Bachelor's in Industrial/Mechatronics Engineering
 
 
 
-## 📈 GitHub Stats
-![Profile views](https://gpvc.arturio.dev/jacopodallafior)
 
 
 <!---
