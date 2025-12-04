@@ -1,7 +1,8 @@
 # Hi, I'm Jacopo Dallafior! 👋
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jacopodallafior&show_icons=true&theme=radical)](https://github.com/jacopodallafior)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacopodallafior&layout=compact&cache_seconds=1800)](https://github.com/jacopodallafior)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jacopodallafior&show_icons=true&theme=radical&cache_seconds=86400)](https://github.com/jacopodallafior)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacopodallafior&layout=compact&cache_seconds=86400)](https://github.com/jacopodallafior)
 
 ## 🚀 About Me
 I'm Jacopo Dallafior, a passionate engineer with a focus on **Autonomous Systems, Electronics, and Robotics**. Currently pursuing my Master's at **KTH Royal Institute of Technology** in **ICT Innovation**, specializing in Autonomous Systems.
