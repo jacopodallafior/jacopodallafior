@@ -1,23 +1,68 @@
-# Hi, I'm Jacopo Dallafior 👋
+<div align="center">
 
-### 🤖 Autonomous Systems · Robotics · Control · Mechatronics
+<img src="./assets/defqon-mainstage-readme-optimized.svg" width="100%" alt="Jacopo Dallafior — mainstage header" />
 
-I'm a Mechatronics Engineer interested in **Autonomous Systems, Robotics, Control Theory, Computer Vision, Machine Learning, and intelligent machines**.
+Hi, I'm Jacopo Dallafior 👋
 
-<p align="left">
+🤖 Autonomous Systems · Robotics · Control · Mechatronics
+
+</div>
+
+**Mechatronics Engineer** interested in **Autonomous Systems, Robotics, Control Theory, Computer Vision, Machine Learning, and intelligent machines**.
+
+<p>
   <a href="https://www.linkedin.com/in/jacopo-dallafior">
-    <img src="https://img.shields.io/badge/LinkedIn-Jacopo%20Dallafior-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jacopo%20Dallafior-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:jacopodallafior@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jacopodallafior%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-jacopodallafior%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=jacopodallafior&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=jacopodallafior&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ SYSTEM MODULES
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,latex,git,github,linux,arduino&perline=9" />
+</p>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### 🧠 Control & Robotics
+
+`Model Predictive Control`  
+`System Modeling`  
+`Simulation`  
+`UAV Control`  
+`SLAM`  
+`VIO`  
+`PX4`
+
+</td>
+<td valign="top" width="50%">
+
+### 🛠 Engineering
+
+`MATLAB / Simulink`  
+`KiCad`  
+`Inventor`  
+`AutoCAD`  
+`Simcenter 3D`  
+`SimScale`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 TELEMETRY
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jacopodallafior&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -30,35 +75,29 @@ I'm a Mechatronics Engineer interested in **Autonomous Systems, Robotics, Contro
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 EDUCATION
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,matlab,latex,git,github,linux,arduino" />
-</p>
-
-**Control & Robotics**
-
-`Model Predictive Control` · `System Modeling` · `Simulation` · `UAV Control` · `SLAM` · `VIO` · `PX4`
-
-**Engineering**
-
-`MATLAB / Simulink` · `KiCad` · `Inventor` · `AutoCAD` · `Simcenter 3D` · `SimScale`
-
----
-
-## 🎓 Education
-
-🎓 **KTH Royal Institute of Technology**
-ICT Innovation — Autonomous Systems
-
-🎓 **University of Trento**
-Mechatronics Engineering
-
-🎓 **University of Trento**
-BSc in Industrial / Mechatronics Engineering
+<table>
+<tr>
+<td>🎓</td>
+<td><b>KTH Royal Institute of Technology</b><br/>ICT Innovation — Autonomous Systems</td>
+</tr>
+<tr>
+<td>🎓</td>
+<td><b>University of Trento</b><br/>Mechatronics Engineering</td>
+</tr>
+<tr>
+<td>🎓</td>
+<td><b>University of Trento</b><br/>BSc in Industrial / Mechatronics Engineering</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <i>Building systems that perceive, decide and act.</i>
-</p>
+<div align="center">
+
+### `PERCEIVE → DECIDE → ACT`
+
+*Building systems that perceive, decide and act.*
+
+</div>
